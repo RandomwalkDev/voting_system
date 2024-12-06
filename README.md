@@ -22,8 +22,9 @@
     b) Windows: https://www.microsoft.com/en-us/windows/learning-center/how-to-record-screen-windows-11
     
     c) Ubuntu: https://askubuntu.com/questions/4428/how-can-i-record-my-screen
-    
+
 5. Share the repository link into the Google Form: [[https://forms.gle/2HbLP8GNiYArZFsj8](https://forms.gle/5YxsWAoQ5kvgHbzJ8)]
+
 
 ## Problem Statement:
 ![image](https://github.com/user-attachments/assets/9a727d61-ad06-47fb-9701-c6aab1ac9eda)
@@ -54,7 +55,9 @@ Our aim is to assess applicants' aptitude, innovative thinking, and their abilit
   - Readme explaining steps of installation and features included
   - Live hosted API (optional)
 
+
 **Push the source code along with a demo video of your solution into the forked github repo. Share the repo link in the google form: [[https://forms.gle/2HbLP8GNiYArZFsj8](https://forms.gle/5YxsWAoQ5kvgHbzJ8)]**
+
 
 
 
